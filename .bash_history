@@ -81,3 +81,36 @@ git push wm master
 git log
 git revert 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
 git revert 671628e9eaa
+uname
+git revert 671628e9eaa
+git status
+ls
+cat shafi1.sh
+touch .classpath
+touch .gitignore
+touch .project
+git status
+mkdir node_modules
+ls
+touch node_modules/shafi.txt
+git status
+vi .ignore
+git status
+vi .gitignore
+git status
+git commit -m "first commit .gitignore"
+git status
+git commit -m "added git ignore file"
+git add .
+git add .gitignore
+git status
+git commit -m "added .gitignore file"
+git push wm master
+uname
+git status
+git branch
+git branch devolopment
+git branch
+git checkout devolopment
+git branch
+git diff devolopment
