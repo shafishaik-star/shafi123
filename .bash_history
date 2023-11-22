@@ -114,3 +114,59 @@ git branch
 git checkout devolopment
 git branch
 git diff devolopment
+git branch stage
+git branch
+git checkout stage
+git branch
+git push wm --all
+git push wm -all
+git push wm --all
+git branch
+vi inkoti.sh
+git commit -a -m "updated"
+cat inkoti.sh
+git master
+git checkout master
+cat inkoti.sh
+git branch
+git master 
+vi inkoti.sh
+cat inkoti.sh
+git checkout stage
+git commit -a -m "updated"
+git checkout stage
+cat inkoti.sh
+git diff master
+git branch
+git branch -r
+git branch -a
+git branch -d stage
+git push wm :stage
+uname
+git --version
+mkdir flipkart
+cd flipkart
+ls
+git init
+cd .git
+ls
+cd ..
+vi amazon.sh
+vi walmart.sh
+git status
+git add .
+git status
+git commit -m "first commit"
+git push wm master
+git remote -v
+git remote add https://github.com/shafishaik-star/shafi.git
+git remote -v
+git status
+git remote add wm https://github.com/shafishaik-star/shafi.git
+git remote -v
+git push wm master 
+git push wm master
+uname
+cd flipkart
+git status
+git branch
